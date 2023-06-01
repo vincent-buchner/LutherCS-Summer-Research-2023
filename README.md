@@ -1,0 +1,2 @@
+# LutherCS Summer Research 2023
+ The 2023 summer research group, comprised of Vincent Buchner, Tai Nguyen, and Dr. Thuy, is dedicated to exploring innovative approaches in detecting sarcasm within text sentiment analysis. With a shared passion for natural language processing and computational linguistics, the team aims to overcome the challenges associated with identifying and understanding sarcasm, a prevalent linguistic phenomenon that often eludes traditional sentiment analysis techniques.
